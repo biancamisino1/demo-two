@@ -1,4 +1,4 @@
 # demo-two
 Some updates
 
-Now we want to try fetch and pull
+We are considering a new branch
