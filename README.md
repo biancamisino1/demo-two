@@ -1,4 +1,4 @@
 # demo-two
 Some updates
 
-I want to be staffed 
+Now we want to try fetch and pull
